@@ -1,3 +1,3 @@
 # Lab Project
 
-![workflow](https://github.com/Romasv/lab_project/actions/workflows/main.yml/badge.svg)
+![workflow](https://github.com/Romasav/lab_project/actions/workflows/main.yml/badge.svg)
